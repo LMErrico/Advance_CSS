@@ -4,7 +4,7 @@
 
 This project was created to showcase my skills and talents to employers looking to fill a job.
 
-The proyect focuses on HTML and advanced CSS skills.
+The project focuses on HTML and advanced CSS skills.
 
 ## Installation
 
@@ -12,13 +12,13 @@ N/A
 
 ## Usage
 
-The URL to the page is 
+The URL to the page is https://lmerrico.github.io/Advance_CSS/
 
 Click on the links at the top to go to each section.
 
 ![Alt text](assets/images/Top.png)
 
-Click on the first application's image to go to its deployed.
+Click on the first application's image to view the page.
 
 ![Alt text](assets/images/Application.png)
 
